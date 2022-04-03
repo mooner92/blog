@@ -19,6 +19,11 @@ body {
   padding-left: 20px;
   padding-right: 20px;
 }
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background: #eee;
+}
 
 .App-logo {
   height: 40vmin;
